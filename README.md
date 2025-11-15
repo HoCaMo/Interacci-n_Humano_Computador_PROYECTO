@@ -3,7 +3,7 @@
 **Integrantes:**  
 - José Antonio Barreanchea Merino  
 - Adrián Antonio Auqui Pérez  
-- Hóamer Gilberto Casma Morales
+- Hósmer Gilberto Casma Morales
   
 ## Descripción General
 La aplicación recrea un escenario donde un cliente llama para:
