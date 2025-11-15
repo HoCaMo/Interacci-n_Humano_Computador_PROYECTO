@@ -5,25 +5,36 @@
 - Adrián Antonio Auqui Pérez  
 - Hóamer Gilberto Casma Morales
   
-## Introduccion
+## Descripción General
+La aplicación recrea un escenario donde un cliente llama para:
+- **Crear un chip nuevo** 
+- **Reportar un problema con su servicio**.
+  
+Durante la experiencia, el usuario (trabajador) debe registrar información clave como nombre, DNI, tipo de plan, generar un código único de chip o derivar el caso al área digital según corresponda.
 
-El proyecto consiste en diseñar una **simulación de un call center de atención al cliente**, donde un trabajador atiende a personas interesadas en adquirir un chip o resolver problemas relacionados con su servicio.
-El sistema contará con un **bot que simula al cliente** y un **usuario que representa al trabajador**. Durante la simulación
+## Objetivo de la Experiencia
+Ofrecer una experiencia educativa e interactiva donde el usuario comprenda el flujo real de atención al cliente, el correcto registro de datos y la toma de decisiones.
 
-## Objetivo de la experiencia
+## Requisitos (resumen)
+- RF01: Cliente elige "Crear chip" o "Reportar problema".  
+- RF02: Registrar nombre, DNI, tipo de plan, código de chip.  
+- RNF01: Interfaz simple e intuitiva.
 
-Ofrecer una **simulación interactiva y educativa** que permita comprender el proceso de atención al cliente y practicar la toma de decisiones en un entorno realista.
+## Instrucciones rápidas (ejecutar desde Roblox Studio)
+1. Abrir el proyecto en Roblox Studio.  
+2. Ejecutar la experiencia desde el editor.  
+3. Navegar con los botones integrados.
+
+
 ## Prototipo
-
-###  Descripción general
-
 **vistas principales:**
 1. Menú de inicio  
 2. Interacción con cliente  
 3. Creación de chip  
 4. Generación de documento  
 5. Entrega del recibo del chip  
-6. Entrega del documento  
+6. Entrega del documento
+    
 
 ### Implementación técnica
 
