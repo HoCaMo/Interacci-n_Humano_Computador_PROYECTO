@@ -22,7 +22,7 @@ Ofrecer una **simulación interactiva y educativa** que permita comprender el pr
 2. Interacción con cliente  
 3. Creación de chip  
 4. Generación de documento  
-5. Entrega del chip  
+5. Entrega del recibo del chip  
 6. Entrega del documento  
 
 ### Implementación técnica
